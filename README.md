@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Juan
-- 👀 I’m interested in learn Javascript
-- 🌱 I’m currently learning Axios
+- 👀 I would like to contribute to javascript projects
 - 💞️ I’m looking to collaborate on some proyect
 - 📫 How to reach me: juandejauretche@gmail.com
 
