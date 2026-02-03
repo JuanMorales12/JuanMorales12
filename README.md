@@ -43,7 +43,7 @@ I'm a developer passionate about building clean, efficient web applications. I e
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/-juandejauretche@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juandejauretche@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juansfff/)
 
 ---
 
